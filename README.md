@@ -39,9 +39,4 @@
 </a>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=wareeshaali2003 &show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
-</p>
 
-# Github Metrics
-![Metrics](https://metrics.lecoq.io/wareeshaali2003 ?template=classic&habits=1&starlists=1&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&posts=false&posts.source=dev.to&posts.user=wareeshaali2003 &posts.descriptions=true&posts.covers=true&posts.limit=2&config.timezone=Asia%2FKarachi)
-<!---
-wareeshaali2003 /wareeshaali2003  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
